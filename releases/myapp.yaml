@@ -17,6 +17,7 @@ spec:
     env:
       AA: BLABLA
       BB: GGG
+      CC: DEVOPS_EXPERTS
     image:
       repository: avielb/test-flux
       tag: master-8211
