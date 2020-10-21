@@ -20,5 +20,5 @@ spec:
       CC: DEVOPS_EXPERTS
     image:
       repository: avielb/test-flux
-      tag: master-8211
+      tag: master-9999
 
