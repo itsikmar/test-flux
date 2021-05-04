@@ -20,5 +20,5 @@ spec:
       DEMO: not_working
     image:
       repository: avielb/test-flux
-      tag: master-9999
+      tag: master-9090
 
